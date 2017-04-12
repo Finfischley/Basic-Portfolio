@@ -1,0 +1,105 @@
+#Name {
+	position: relative;
+	left: 150px;
+	width: 270px;
+	height: 50px;
+	font-style: bold;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	padding: 10px;
+	color: white;
+	background-color: #008B8B;
+	text-align: center;
+	border-bottom: 2px;
+	border-bottom-style: solid;
+	border-color: #708090;
+}
+
+#background {
+	width: 100%;
+	height: 600px;
+	border-top: 3px;
+	border-top-style: solid;
+	border-top-color: #708090;
+	background: url(../images/topography.png);
+}
+
+#About {
+	position: relative;
+	padding: 20px;
+	background-color: #ffffff;
+	width: 650px;
+	height: 450px;
+	top: 50px;
+	left: 150px;
+}
+
+#sidebar {
+	position: absolute;
+	background-color: #ffffff;
+	width: 270px;
+	height: 270px;
+	top: 130px;
+	right: 100px;
+}
+
+h2 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 24px;
+	color: #008B8B;
+	margin-left: 20px;
+}
+
+img {
+	margin-left: 20px;
+	float: left;
+	padding-right: 10px;
+}
+
+p {
+	line-height: 24px;
+}
+
+h4 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: #008B8B;
+	margin-left: 20px;
+	text-decoration: underline;
+	text-align: center;
+}
+
+a {
+	padding-left: 20px;
+}
+
+#tabs {
+	color: #708090;
+}
+#tab1 {
+	position: absolute;
+	top: 25px;
+	right: 600px;
+}
+
+#tab2 {
+	position: absolute;
+	top: 25px;
+	right: 450px;
+}
+
+#tab3 {
+	position: absolute;
+	top: 25px;
+	right: 300px;
+}
+
+footer {
+	background-color: #708090;
+	color: white;
+	font-size: 10px;
+	padding: 20px;
+	text-align: center;
+	border-top: 3px;
+	border-top-style: solid;
+	border-top-color: #008B8B;
+
+}
